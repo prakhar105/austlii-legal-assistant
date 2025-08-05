@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+lora_model/
+*.egg-info
+
+# Virtual environments
+.venv
+*.pdf
+*.rtf
+*.lock
+*.pem
+*.safetensors
+*.model
+*.pth
+*pt
+*.bin

@@ -1,0 +1,18 @@
+[project]
+name = "lora-domain-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.0.0",
+    "langchain-community>=0.3.27",
+    "langchain>=0.3.27",
+    "peft>=0.17.0",
+    "pypandoc>=1.15",
+    "pypdf2>=3.0.1",
+    "pywin32>=311",
+    "rdflib>=7.1.4",
+    "reportlab>=4.4.3",
+    "striprtf>=0.0.29",
+]
