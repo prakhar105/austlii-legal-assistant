@@ -35,6 +35,8 @@ Here’s how **LexiAUS** looks in action:
 
 ```
 lexi-aus-lora/
+app
+└── app.py                      # Gradio web app for LoRA 
 │
 ├── assets/                     # Screenshots and images for README
 │   └── app_screenshot.png
@@ -48,7 +50,8 @@ lexi-aus-lora/
 │   ├── data_preparation.py     # Converts RTF/PDFs → JSON for LoRA
 │   ├── train_lora.py           # Fine-tunes LoRA with OpenLLaMA 3B
 │   ├── lora_inference.py       # CLI inference script
-│   └── app.py                  # Gradio web app for LoRA inference
+│   
+inference
 │
 ├── vector_store/               # (Optional) FAISS DB for RAG
 │   └── faiss_index/
