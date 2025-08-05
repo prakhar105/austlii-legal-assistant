@@ -25,7 +25,7 @@ This project uses **LoRA (Low-Rank Adaptation)** with **OpenLLaMA 3B** and **4â€
 
 Hereâ€™s how **LexiAUS** looks in action:
 
-![LexiAUS Screenshot](assets/app_screenshot.png)
+![LexiAUS Screenshot](https://github.com/prakhar105/austlii-legal-assistant/blob/master/assests/Screenshot%202025-08-05%20094540.png)
 
 *(Make sure your screenshot is saved as `assets/app_screenshot.png` in the repo.)*
 
