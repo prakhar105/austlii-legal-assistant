@@ -1,5 +1,5 @@
 # 📜 LexiAUS – LoRA-Powered Australian Legal Assistant
-
+![](https://github.com/prakhar105/austlii-legal-assistant/blob/master/assests/logo.png)
 LexiAUS is an AI-powered **legal assistant** fine-tuned on **AustLII (Australian Legal Information Institute)** legal documents.  
 It can:
 
